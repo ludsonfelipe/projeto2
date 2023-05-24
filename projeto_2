@@ -1,6 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T21:16:31.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="KO9RFTHlo4uUgkMpMkrV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T01:05:29.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PSgYwsccQJK-z4csloHz" version="21.2.9" type="github" pages="2">
   <diagram name="Página-1" id="Rt2OTn8uYBPofBGFcGEc">
-    <mxGraphModel>
+    <mxGraphModel dx="1772" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZYtx9jJHM-JocnUTYAEU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZYtx9jJHM-JocnUTYAEU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZYtx9jJHM-JocnUTYAEU-1" target="ZYtx9jJHM-JocnUTYAEU-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-31" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZYtx9jJHM-JocnUTYAEU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-1" value="Chat Aberto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="82" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-4" value="Memorystore" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="82" y="102" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-6" value="Firestore" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="102" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-8" value="Cloud Storage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-92" y="102" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYtx9jJHM-JocnUTYAEU-10" value="Pub/Sub" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="f44PJJsZ_xKARyVusFe6" name="Página-2">
+    <mxGraphModel dx="1372" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
